@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ProgrammingProjects/CLion Projects/Cpp London University/Session 4/Lesson 2/Session4Module2HW/EXERCISE.h
+string
+-
+ostream
+-
+
+D:/ProgrammingProjects/CLion Projects/Cpp London University/Session 4/Lesson 2/Session4Module2HW/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+private/Checker.h
+D:/ProgrammingProjects/CLion Projects/Cpp London University/Session 4/Lesson 2/Session4Module2HW/private/Checker.h
+EXERCISE.h
+D:/ProgrammingProjects/CLion Projects/Cpp London University/Session 4/Lesson 2/Session4Module2HW/EXERCISE.h
+
+D:/ProgrammingProjects/CLion Projects/Cpp London University/Session 4/Lesson 2/Session4Module2HW/private/Checker.h
+string
+-
+type_traits
+-
+utility
+-
+
